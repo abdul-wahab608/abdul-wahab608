@@ -64,7 +64,7 @@ I'm a passionate and experienced software engineer with a proven track record in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-wahab608&show_icons=true&theme=react&hide_border=false" alt="Abdul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-wahab608&show_icons=true&count_private=true&theme=react&hide_border=false" alt="Abdul's GitHub Stats" />
 </p>
 
 <p align="center">
